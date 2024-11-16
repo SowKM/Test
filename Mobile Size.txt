@@ -1,0 +1,6 @@
+Mobile
+
+Body Text: 16px
+Headings: Adjust heading sizes proportionally, e.g., H1 around 24px-32px, H2 around 20px-24px.
+Button Text: At least 14px for tap targets to be easily accessible.
+Line Height: 1.5 to 1.75 for body text to improve readability on smaller screens.
